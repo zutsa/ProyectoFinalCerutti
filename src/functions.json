@@ -1,0 +1,9 @@
+[
+    {"id": 0,
+    "function":"/canciones (GET) mostrar un listado de las canciones",
+    "secondfunction":"/canciones (POST) crear un nuevo registro de una canción",
+    "thirdfunction":"/canciones/:id (GET) mostrar una canción",
+    "fourthfunction":"/canciones/:id (PUT) editar una canción /canciones/:id (DELETE) eliminar una canción",
+    "fifthfunction":"/generos (GET) listado de todos los géneros con sus canciones"
+    }
+]
